@@ -1,6 +1,6 @@
 {
   "name": "ig4e-st.db",
-  "version": "7.0.0",
+  "version": "8.0.0",
   "description": "ST.db is a versatile npm package for managing databases with a simple key-value interface. It supports various database types, offers seamless switching between drivers, efficient caching, encryption, and customizable configurations. Ideal for diverse projects with clear documentation.",
   "main": "./src/index.js",
   "repository": {
